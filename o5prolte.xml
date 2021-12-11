@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Device -->
-    <project name="Exynos3475/android_device_samsung_on5ltetmo" remote="github" revision="lineage-17.1" path="device/samsung/on5ltetmo"/>
-    <project name="Exynos3475/android_device_samsung_universal3475-common" remote="github" revision="lineage-17.1" path="device/samsung/universal3475-common"/>
+    <project name="techyminati/android_device_samsung_o5prolte" remote="github" revision="lineage-17.1" path="device/samsung/on5ltetmo"/>
+    <project name="techyminati/android_device_samsung_universal3475-common" remote="github" revision="lineage-17.1" path="device/samsung/universal3475-common"/>
     
     <!--Kernel Source-->
-    <project name="Exynos3475/android_kernel_samsung_exynos3475" remote="github" revision="lineage-17.1" path="kernel/samsung/exynos3475"/>
+    <project name="techyminati/android_kernel_samsung_exynos3475" remote="github" revision="lineage-17.1" path="kernel/samsung/exynos3475"/>
 
     <!--Proprietary Blobs-->
-    <project name="Exynos3475/android_vendor_samsung" remote="github" revision="lineage-17.1" path="vendor/samsung"/>
+    <project name="techyminati/android_vendor_samsung" remote="github" revision="lineage-17.1" path="vendor/samsung"/>
 
     <!-- Toolchain -->
     <project name="Exynos3475/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" remote="github" revision="android-7.1.2_r36" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"/>
