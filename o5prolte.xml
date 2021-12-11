@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <!-- Device -->
-    <project name="techyminati/android_device_samsung_o5prolte" remote="github" revision="lineage-17.1" path="device/samsung/on5ltetmo"/>
+    <project name="techyminati/android_device_samsung_o5prolte" remote="github" revision="lineage-17.1" path="device/samsung/o5prolte"/>
     <project name="techyminati/android_device_samsung_universal3475-common" remote="github" revision="lineage-17.1" path="device/samsung/universal3475-common"/>
     
     <!--Kernel Source-->
